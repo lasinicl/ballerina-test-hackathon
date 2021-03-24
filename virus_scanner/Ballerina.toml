@@ -1,0 +1,7 @@
+[package]
+org = "lasini"
+name = "virus_scanner"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
